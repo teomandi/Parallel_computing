@@ -1,1 +1,2 @@
-# Parallel_computing
+# parallel_computng
+MPI, OpenMP, CUDA

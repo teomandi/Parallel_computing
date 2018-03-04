@@ -1,0 +1,537 @@
+
+
+----------------------------------------------------------------------------------	MPI	----------------------------------------------------------------------------
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 22.78016 sec
+Processes: 1
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 6.15207 sec
+Processes: 4
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.71916 sec
+Processes: 9
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.80450 sec
+Processes: 16
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.86534 sec
+Processes: 25
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.62318 sec
+Processes: 36
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.80620 sec
+Processes: 64
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.44805 sec
+Processes: 100
+
+
+
+
+
+--->> -p 0.25 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 480x630
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.79791 sec
+Processes: 1
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 480x630
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.32030 sec
+Processes: 4
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 480x630
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.17353 sec
+Processes: 9
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 480x630
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.08776 sec
+Processes: 25
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 480x630
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.08257 sec
+Processes: 36
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 480x630
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.35449 sec
+Processes: 100
+
+
+
+
+
+--->> -p 0.5
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 960x1260
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 5.62119 sec
+Processes: 1
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 960x1260
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.27410 sec
+Processes: 4
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 960x1260
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.62255 sec
+Processes: 9
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 960x1260
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.35981 sec
+Processes: 16
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 960x1260
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.28842 sec
+Processes: 25
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 960x1260
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 0.18187 sec
+Processes: 36
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 960x1260
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.34896 sec
+Processes: 100
+
+
+
+--->> -p 2
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 110.87729 sec
+Processes: 1
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 25.37660 sec
+Processes: 4
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 10.87525 sec
+Processes: 9
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 6.99553 sec
+Processes: 16
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 3.80184 sec
+Processes: 25
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.42303 sec
+Processes: 36
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 3.05222 sec
+Processes: 64
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.34287 sec
+Processes: 100
+
+
+
+
+
+-----------------------------------colorfull--------------------------
+
+Image: ../images/waterfall_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 300 300 
+Colorfull : YES
+Duration of Convolution: 19.70667 sec
+Processes: 4
+
+Image: ../images/waterfall_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 300 300 
+Colorfull : YES
+Duration of Convolution: 7.29073 sec
+Processes: 9
+
+Image: ../images/waterfall_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 300 300 
+Colorfull : YES
+Duration of Convolution: 3.91760 sec
+Processes: 16
+
+Image: ../images/waterfall_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 300 300 
+Colorfull : YES
+Duration of Convolution: 2.64964 sec
+Processes: 25
+
+Image: ../images/waterfall_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 300 300 
+Colorfull : YES
+Duration of Convolution: 1.85604 sec
+Processes: 36
+
+Image: ../images/waterfall_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 300 300 
+Colorfull : YES
+Duration of Convolution: 4.58003 sec
+Processes: 64
+
+Image: ../images/waterfall_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 300 300 
+Colorfull : YES
+Duration of Convolution: 4.40907 sec
+Processes: 100
+
+
+--->> -p 0.25
+
+Image: ../images/waterfall_1920_2520.raw with Dimensions: 480x630
+Repetitions: 300 300 300 
+Colorfull : YES
+Duration of Convolution: 0.24833 sec
+Processes: 25
+
+Image: ../images/waterfall_1920_2520.raw with Dimensions: 480x630
+Repetitions: 300 300 300 
+Colorfull : YES
+Duration of Convolution: 0.20015 sec
+Processes: 36
+
+
+
+-------------------------------------------------------------------------------	OpenMP/MPI	----------------------------------------------------------------------------
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 13.26453 sec
+Processes: 1 - with Threads: 2 
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 9.38590 sec
+Processes: 1 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 9.56196 sec
+Processes: 1 - with Threads: 6 
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 3.39259 sec
+Processes: 4 - with Threads: 2 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.78318 sec
+Processes: 4 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.97330 sec
+Processes: 4 - with Threads: 6 
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.57502 sec
+Processes: 9 - with Threads: 2 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.78363 sec
+Processes: 4 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.56143 sec
+Processes: 9 - with Threads: 6
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 3.63427 sec
+Processes: 16 - with Threads: 2
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.75056 sec
+Processes: 16 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.51181 sec
+Processes: 16 - with Threads: 6 
+	
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 4.97800 sec
+Processes: 25 - with Threads: 2 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.84478 sec
+Processes: 25 - with Threads: 5  
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.98769 sec
+Processes: 25 - with Threads: 6 
+
+
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.35086 sec
+Processes: 36 - with Threads: 2 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.78640 sec
+Processes: 36 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.39161 sec
+Processes: 36 - with Threads: 6 
+
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 29.19358 sec
+Processes: 64 - with Threads: 2 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.80803 sec
+Processes: 64 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 1.61174 sec
+Processes: 64 - with Threads: 6 
+
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 36.68049 sec
+Processes: 100 - with Threads: 2 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.65970 sec
+Processes: 100 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 1920x2520
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 2.16413 sec
+Processes: 100 - with Threads: 6 
+
+
+
+
+
+
+--->> -p 2
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 13.42752 sec
+Processes: 4 - with Threads: 2 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 9.25307 sec
+Processes: 4 - with Threads: 5
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 10.41279 sec
+Processes: 4 - with Threads: 6 
+
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 6.06421 sec
+Processes: 9 - with Threads: 2
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 4.93008 sec
+Processes: 9 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 4.57731 sec
+Processes: 9 - with Threads: 6 
+
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 13.71632 sec
+Processes: 16 - with Threads: 2 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 13.90804 sec
+Processes: 16 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 12.23850 sec
+Processes: 16 - with Threads: 6
+
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 7.98231 sec
+Processes: 25 - with Threads: 2 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 7.41911 sec
+Processes: 25 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 8.74872 sec
+Processes: 25 - with Threads: 6 
+
+
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 6.67162 sec
+Processes: 36 - with Threads: 2 
+
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 7.79153 sec
+Processes: 36 - with Threads: 5 
+
+Image: ../images/waterfall_grey_1920_2520.raw with Dimensions: 3840x5040
+Repetitions: 300 
+Colorfull : NO
+Duration of Convolution: 7.85304 sec
+Processes: 36 - with Threads: 6 
+
